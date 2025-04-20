@@ -92,7 +92,7 @@ aws.bucket.name=&lt;Your-S3-Bucket-Name&gt;</code></pre>
 
 <h2>Screenshots</h2>
 <p><strong>Dashboard</strong></p>
-<img src="./screenshots/dashboard.png" alt="Dashboard" />
+<img src="./screenshots/Screenshot 2025-04-20 104339.png" alt="Dashboard" />
 
 <p><strong>Product Management</strong></p>
 <img src="./screenshots/product-management.png" alt="Product Management" />
