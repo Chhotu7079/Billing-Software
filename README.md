@@ -74,7 +74,7 @@ mvn spring-boot:run</code></pre>
 </ol>
 <pre><code>npm start</code></pre>
 
-<p>Your application should now be running locally. Visit <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> in your browser to access the frontend.</p>
+<p>Your application should now be running locally. Visit <a href="http://localhost:5471" target="_blank">http://localhost:5471</a> in your browser to access the frontend.</p>
 
 <h2>Usage</h2>
 <ul>
