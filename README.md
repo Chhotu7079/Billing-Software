@@ -100,5 +100,3 @@ aws.bucket.name=&lt;Your-S3-Bucket-Name&gt;</code></pre>
   <li>Open a pull request.</li>
 </ol>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
