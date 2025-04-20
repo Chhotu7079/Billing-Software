@@ -90,12 +90,6 @@ mvn spring-boot:run</code></pre>
 aws.secret.access.key=&lt;Your-AWS-Secret-Key&gt;
 aws.bucket.name=&lt;Your-S3-Bucket-Name&gt;</code></pre>
 
-<h2>Screenshots</h2>
-<p><strong>Dashboard</strong></p>
-<img src="./screenshots/Screenshot 2025-04-20 104339.png" alt="Dashboard" />
-
-<p><strong>Explore </strong></p>
-<img src="https://drive.google.com/file/d/1iEy-gwzGo1_38ouCL198tzdqUQlCyGvh/view?usp=sharing" alt="Explore" />
 
 <h2>Contributing</h2>
 <ol>
