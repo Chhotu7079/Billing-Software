@@ -94,8 +94,8 @@ aws.bucket.name=&lt;Your-S3-Bucket-Name&gt;</code></pre>
 <p><strong>Dashboard</strong></p>
 <img src="./screenshots/Screenshot 2025-04-20 104339.png" alt="Dashboard" />
 
-<p><strong>Product Management</strong></p>
-<img src="./screenshots/product-management.png" alt="Product Management" />
+<p><strong>Explore </strong></p>
+<img src="https://drive.google.com/file/d/1iEy-gwzGo1_38ouCL198tzdqUQlCyGvh/view?usp=sharing" alt="Explore" />
 
 <h2>Contributing</h2>
 <ol>
